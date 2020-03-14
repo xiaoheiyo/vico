@@ -62,7 +62,7 @@ function checkclass($f,$m = false) {
 		<h3 class="panel-title" align="center">欢迎使用VIP电影在线播放工具</h3>
 	</div>
 	<div class="panel-body">
-		<p><iframe src="//www.1080kan.com/readme.htm" style="width:100%;height:465px;"></iframe></p>
+		<p><iframe src="//ishanlin.top" style="width:100%;height:465px;"></iframe></p>
 		<?php if($installed){ ?>
 		<div class="alert alert-warning">您已经安装过，如需重新安装请删除<font color=red> install/install.lock </font>文件后再安装！</div>
 		<?php }else{?>
