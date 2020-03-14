@@ -13,9 +13,9 @@ require './123/common.php';
 <title><?php echo $conf['title']?></title>
 <meta name="keywords" content="<?php echo $conf['keywords']?>">
 <meta name="description" content="<?php echo $conf['description']?>">
-    <link href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" />
-    <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
-    <script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <link href="//cdn.jsdelivr.net/gh/xiaoheiyo/vico/css/bootstrap.min.cs" rel="stylesheet" />
+    <script src="//cdn.jsdelivr.net/gh/jquery/jquery@3.2/dist/jquery.min.js"></script>
+    <script src="//cdn.jsdelivr.net/gh/xiaoheiyo/vico/js/bootstrap.min.js"></script>
     <link rel="shortcut icon" href="/tu/favicon.ico" />
     <link rel="bookmark" href="/tu/favicon.ico" />
     <STYLE type="text/css">body{cursor:url('/tu/S1.cur'), auto;} a{cursor:url('/tu/S2.cur'), auto;}</STYLE>
