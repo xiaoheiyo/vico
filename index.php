@@ -13,7 +13,7 @@ require './123/common.php';
 <title><?php echo $conf['title']?></title>
 <meta name="keywords" content="<?php echo $conf['keywords']?>">
 <meta name="description" content="<?php echo $conf['description']?>">
-    <link href="//cdn.jsdelivr.net/gh/xiaoheiyo/vico/css/bootstrap.min.cs" rel="stylesheet" />
+    <link href="//cdn.jsdelivr.net/gh/xiaoheiyo/vico/css/bootstrap.min.css" rel="stylesheet" />
     <script src="//cdn.jsdelivr.net/gh/jquery/jquery@3.2/dist/jquery.min.js"></script>
     <script src="//cdn.jsdelivr.net/gh/xiaoheiyo/vico/js/bootstrap.min.js"></script>
     <link rel="shortcut icon" href="/tu/favicon.ico" />
