@@ -37,7 +37,7 @@ function checkclass($f,$m = false) {
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no,minimal-ui">
 <title>VIP电影在线播放工具安装向导</title>
-<link href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="//cdn.jsdelivr.net/gh/xiaoheiyo/vico/css/bootstrap.min.css" rel="stylesheet"/>
 <!--[if lt IE 9]>
 	<script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
