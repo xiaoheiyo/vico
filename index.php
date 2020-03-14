@@ -24,10 +24,10 @@ require './123/common.php';
       document.addEventListener('visibilitychange',
       function() {
         if (document.hidden) {
-          document.title = '(つェ⊂)我藏好了哦~ ' + OriginTitile;
+          document.title = '(つェ⊂)~ ' + OriginTitile;
           clearTimeout(titleTime);
         } else {
-          document.title = '(*´∇｀*) 被你发现啦~ ' + OriginTitile;
+          document.title = '(*´∇｀*)~ ' + OriginTitile;
           titleTime = setTimeout(function() {
             document.title = OriginTitile;
           },
