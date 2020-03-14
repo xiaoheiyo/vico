@@ -1,6 +1,6 @@
 <?php
-$jk=isset($_GET['jk'])?$_GET['jk']:'http://www.ou522.cn/t2/1.php?url=';
-$url=isset($_GET['url'])?$_GET['url']:'http://www.iqiyi.com/v_19rramdo0g.html?fc=87bbded392d221f5';
+$jk=isset($_GET['jk'])?$_GET['jk']:'https://okjx.cc/?url=';   #打开默认解析链接
+$url=isset($_GET['url'])?$_GET['url']:'#';    #默认解析视频
 ?>
 <?php
 require './123/common.php';
